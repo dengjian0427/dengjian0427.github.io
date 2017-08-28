@@ -1,0 +1,16 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background: lightblue;
+	text-align: center;
+}
+h1{
+	color:#ccc;
+}
+.put{
+	border-radius: 3px;
+	width: 100px;
+	height: 20px;
+}
